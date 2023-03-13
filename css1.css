@@ -1,0 +1,14 @@
+/* EL ASTERISCO SELECCIONA TODO LO DE LA PÁGINA */
+
+/* * {
+    background-color: lightcyan;   
+} */ /* Cambia el fondo a cyan claro */
+
+/* Para solamente seleccionar  */
+
+
+#a{
+    color: blueviolet;
+    font-style: italic;
+    font-variant: small-caps;
+}
